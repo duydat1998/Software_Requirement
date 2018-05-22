@@ -1,0 +1,18 @@
+﻿1.Requirement
+1.1 Background
+People usually go to Touch cinema to watch movies. There are about 300 - 400 people going to 
+the cinema, purchasing tickets, popcorn and drinkings everyday. However, people have to go all their ways
+to the cinema to buy tickets, that could lead to some disadvantages for the customers such as:
+ +To get information about movie schedules or movies that will be performed, they must go to the cinema or see in posters, banners,...
+ +Not knowing neither the status of the ticket nor the promotions until the customers come to the cinema. 
+	For example, they want to see "Deadpool 2" at 8:00pm, and they arrive at the cinema at 7:50pm, and unfornately, all ticket are sold out.
+ +At the high peak time or when there is a blockbuster film (phim bom tấn), the customers have to make such long queues, which makes the cinema crowded and unsecurity.
+ +The traditional ticket is made from paper, which is easily lost or damaged. Moreover, to make fake tickets is not a dificult problem.
+ +The customers can't choose seats they want in advanced.
+1.2 Business oppoturnity
+Many customers have requested a system that would permit
+a user to book tickets online.Such a system would save customers' time,
+and it would increase the chance of getting information about the current promotions.
+The more convenient way of booking tickets, the more customers have an urge of going to
+the theater. With the dramatical development of E-Commerce, this system is expected to
+help Touch cinema gain more profit and customers adapt the current technology. 
