@@ -15,4 +15,5 @@ a user to book tickets online.Such a system would save customers' time,
 and it would increase the chance of getting information about the current promotions.
 The more convenient way of booking tickets, the more customers have an urge of going to
 the theater. With the dramatical development of E-Commerce, this system is expected to
+
 help Touch cinema gain more profit and customers adapt the current technology. 
